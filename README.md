@@ -1,6 +1,6 @@
 # Trampo sem Trampo
 
-**Procurar trampo dá trampo. Aqui não.**
+**Procurar trampo dá um trampo. Aqui nem tanto.**
 
 Landing page de um copiloto de carreira (nome provisório). O produto nasceu de uma skill real que eu uso na minha própria busca de emprego: ela acorda às 6h, lê as vagas das últimas 24 horas em vários portais, separa as que passam na minha régua (nível, faixa, regime, remoto), explica por que cada uma vale ou não, monta currículo e carta sob medida em português ou inglês e, com uma extensão no navegador, preenche a candidatura no site da vaga. O envio fica sempre comigo.
 
